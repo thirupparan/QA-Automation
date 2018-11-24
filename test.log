@@ -1,0 +1,34 @@
+2018-11-24 16:50:12.623 [main] INFO  com.sgic.automation.demo.util.Log >> ********************************************
+2018-11-24 16:50:12.626 [main] INFO  com.sgic.automation.demo.util.Log >> ************** Start Test Case *************
+2018-11-24 16:50:12.627 [main] INFO  com.sgic.automation.demo.util.Log >> ********************************************
+2018-11-24 16:50:12.777 [main] INFO  com.sgic.automation.demo.test.LoginTest >> ********* Entered username **********
+2018-11-24 16:50:12.863 [main] INFO  com.sgic.automation.demo.test.LoginTest >> ********* Entered password **********
+2018-11-24 16:50:15.298 [main] INFO  com.sgic.automation.demo.test.LoginTest >> ********* Login button clicked **********
+2018-11-24 16:50:17.766 [main] ERROR com.sgic.automation.demo.test.LoginTest >> Failed to find mesasge. 
+Screenshot file: 2018-11-24_16:50:17.jpg
+2018-11-24 16:50:18.509 [main] INFO  com.sgic.automation.demo.util.Log >> ********************************************
+2018-11-24 16:50:18.510 [main] INFO  com.sgic.automation.demo.util.Log >> ************** End Test Case *************
+2018-11-24 16:50:18.510 [main] INFO  com.sgic.automation.demo.util.Log >> ********************************************
+2018-11-24 16:50:18.876 [main] INFO  com.sgic.automation.demo.util.Log >> ********************************************
+2018-11-24 16:50:18.876 [main] INFO  com.sgic.automation.demo.util.Log >> ************** Start Test Case *************
+2018-11-24 16:50:18.876 [main] INFO  com.sgic.automation.demo.util.Log >> ********************************************
+2018-11-24 16:50:19.008 [main] INFO  com.sgic.automation.demo.test.LoginTest >> ********* Entered username **********
+2018-11-24 16:50:19.085 [main] INFO  com.sgic.automation.demo.test.LoginTest >> ********* Entered password **********
+2018-11-24 16:50:20.476 [main] INFO  com.sgic.automation.demo.test.LoginTest >> ********* Login button clicked **********
+2018-11-24 16:50:23.228 [main] ERROR com.sgic.automation.demo.test.LoginTest >> Failed to find mesasge. 
+Screenshot file: 2018-11-24_16:50:22.jpg
+2018-11-24 16:50:23.973 [main] INFO  com.sgic.automation.demo.util.Log >> ********************************************
+2018-11-24 16:50:23.973 [main] INFO  com.sgic.automation.demo.util.Log >> ************** End Test Case *************
+2018-11-24 16:50:23.974 [main] INFO  com.sgic.automation.demo.util.Log >> ********************************************
+2018-11-24 16:50:24.379 [main] INFO  com.sgic.automation.demo.util.Log >> ********************************************
+2018-11-24 16:50:24.380 [main] INFO  com.sgic.automation.demo.util.Log >> ************** Start Test Case *************
+2018-11-24 16:50:24.380 [main] INFO  com.sgic.automation.demo.util.Log >> ********************************************
+2018-11-24 16:50:24.505 [main] INFO  com.sgic.automation.demo.test.LoginTest >> ********* Entered username **********
+2018-11-24 16:50:24.581 [main] INFO  com.sgic.automation.demo.test.LoginTest >> ********* Entered password **********
+2018-11-24 16:50:25.543 [main] INFO  com.sgic.automation.demo.test.LoginTest >> ********* Login button clicked **********
+2018-11-24 16:50:26.499 [main] INFO  com.sgic.automation.demo.util.Log >> ********************************************
+2018-11-24 16:50:26.500 [main] INFO  com.sgic.automation.demo.util.Log >> ************** Start Test Case *************
+2018-11-24 16:50:26.500 [main] INFO  com.sgic.automation.demo.util.Log >> ********************************************
+2018-11-24 16:50:26.643 [main] INFO  com.sgic.automation.demo.test.LoginTest >> ********* Entered username **********
+2018-11-24 16:50:26.720 [main] INFO  com.sgic.automation.demo.test.LoginTest >> ********* Entered password **********
+2018-11-24 16:50:27.412 [main] INFO  com.sgic.automation.demo.test.LoginTest >> ********* Login button clicked **********
